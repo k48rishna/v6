@@ -1,0 +1,10 @@
+{
+	"apikey": "Token Z1lTeoTqDvC-BmsmYOZ7uvfA9EISrO6Uh9JXrplSCik4",
+	"sql" : {
+		"host": "acnapi-mysql-instance.cl7wn2kmk3qh.us-west-2.rds.amazonaws.com",
+		"user": "teamacnapi",
+		"password": "t34mACNAPI",
+		"port": "8080",
+		"database": "acnapi"
+	}
+}

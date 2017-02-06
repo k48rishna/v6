@@ -48,30 +48,9 @@ liquidLeanApp.config(function ($routeProvider) {
             templateUrl: 'views/bankingApi.html',
             controller: 'loginController'
         });
+    $locationProvider.html5Mode(true);
 });
-
-// Factory - Services
-
-
-// load on init
-
-
-// doesn't do anything for now
-// create the controller and inject Angular's $scope
 
 liquidLeanApp.controller('mainController', ['$scope', '$http', function ($scope, $http) {
     // create a message to display in our view
 }]);
-
-// login logic
-
-// board logic
-
-// dashboard logic
-
-// talent logic
-
-// assets logic
-
-
-// Presentation Logic
